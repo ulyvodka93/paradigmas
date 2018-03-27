@@ -52,6 +52,6 @@ def main():
 
 if __name__ == "__main__":
                 main()
-main()
+                
 
 msvcrt.getch()  # Mantiene la ventana de ejecución abierta hasta presionar cualquier tecla
